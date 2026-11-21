@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+lab_three_data/
+data/

@@ -1,0 +1,15 @@
+# Python 3.12. On this computer the venv reuses the preinstalled CUDA-enabled
+# torch 2.13.0+cu126 / torchvision 0.28.0+cu126 via system-site-packages.
+# On another machine, install a matching PyTorch pair for its CPU/GPU first.
+ipykernel
+jupyterlab
+nbclient
+numpy
+matplotlib
+seaborn
+scikit-learn
+einops
+celluloid
+tqdm
+torch==2.13.0
+torchvision==0.28.0
